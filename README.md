@@ -26,9 +26,10 @@
 **AI tooling:** Claude Code · Cursor · Model Context Protocol (MCP) · n8n
 
 ## Projects
-- **Sincrovías** *(private, founder project)*: SaaS platform for real-time bus fleet tracking. Java 25, Spring Boot 4, hexagonal architecture, MQTT, PostgreSQL, Angular and Flutter, built with Claude Code. Demo available on request.
-- **Event-driven microservices platform** *(in progress, public soon)*: Java 25, Spring Boot 4, Spring Cloud, Kafka, Resilience4j, Docker, Kubernetes, CI with test-coverage gates and container image scanning.
+> Most of my work lives in private client and company repositories, so this profile shows only a small part of it. I'm happy to walk through code and architecture in an interview.
 
+- **[logistics-events-platform](https://github.com/josecastrillon/logistics-events-platform)** *(in progress)*: event-driven order and delivery platform. Java 25, Spring Boot 4, PostgreSQL, Flyway, Docker Compose, and CI with an 80% coverage gate. Kafka, Testcontainers and more services are next.
+- **Sincrovías** *(private, founder project)*: SaaS platform for real-time bus fleet tracking. Java 25, Spring Boot 4, hexagonal architecture, MQTT, PostgreSQL, Angular and Flutter, built with Claude Code. Demo available on request.
 ## Certifications
 - AWS Certified Cloud Practitioner (2024 – 2027)
 - Oracle Certified Associate, Java SE 7 Programmer
