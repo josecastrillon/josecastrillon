@@ -2,7 +2,7 @@
 
 **Senior Full Stack Java Developer** · Spring Boot · Angular · AWS
 
-12+ years building and maintaining business-critical applications for banking, insurance, government and research organizations. Based in Colombia (UTC-5), open to remote B2B work and relocation to Spain / the EU.
+14+ years building and maintaining business-critical applications for banking, insurance, government and research organizations. Based in Colombia (UTC-5), open to remote B2B work and relocation to Spain / the EU.
 
 ## What I do
 - Design and build **Java / Spring Boot back ends** and **REST/SOAP integrations** between heterogeneous systems.
@@ -19,7 +19,7 @@
 - **Cenicafé – National Federation of Coffee Growers** (2014 – 2019): migration and redesign of the national agro-climate platform, mobile apps published on Google Play and the App Store, and Oracle administration and tuning.
 
 ## Tech stack
-**Back end:** Java (8–25) · Spring Boot · Spring Cloud · Java EE (JSF, JSP, Servlets) · Hibernate/JPA · REST · SOAP
+**Back end:** Java (6–25) · Spring Boot · Spring Cloud · Java EE (JSF, JSP, Servlets) · Hibernate/JPA · REST · SOAP
 **Front end:** Angular · TypeScript · JavaScript · Ionic · Liferay
 **Data:** Oracle · PostgreSQL · SQL Server · MySQL
 **Cloud & DevOps:** AWS · Docker · Kubernetes · GitHub Actions · Maven · Git
